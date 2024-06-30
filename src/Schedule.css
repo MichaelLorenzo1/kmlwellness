@@ -1,0 +1,12 @@
+.schedule {
+    background-color: rgb(146, 146, 146);
+}
+/* If your component has a class */
+.yourComponentClass {
+    background: none;
+}
+
+/* Or if your component has an id */
+#yourComponentId {
+    background: transparent;
+}
